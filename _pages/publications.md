@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find a full list at <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find a full list at my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</div>
 {% endif %}
 
 {% include base_path %}
