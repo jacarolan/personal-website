@@ -10,21 +10,16 @@ author_profile: true
 {% endif %}
 
 <h2><a href="https://arxiv.org/abs/2410.16595" style="color: #000000">(Quantum) Indifferentiability with Pre-Computation</a></h2>
- - Joseph Carolan, Alexander Poremba, Mark Zhandry
- - (Under review)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Joseph Carolan, Alexander Poremba, Mark Zhandry. **(Under review)**
  
-<h2><a href="https://arxiv.org/abs/2410.04015">Succinct Fermion Data Structures</a></h2>
- - Joseph Carolan, Luke Schaeffer
- - Published in **ITCS 2025 (to appear)**
+<h2><a href="https://arxiv.org/abs/2410.04015" style="color: #000000">Succinct Fermion Data Structures</a></h2>
+ - Joseph Carolan, Luke Schaeffer. Published in **ITCS 2025 (to appear)**
  
-<h2><a href="https://arxiv.org/abs/2410.02665">Quantum advantage and lower bounds in parallel query complexity</a></h2>
- - Joseph Carolan, Amin Shiraz Gilani, Mahathi Vempati
- - Published in **ITCS 2025 (to appear)**
+<h2><a href="https://arxiv.org/abs/2410.02665" style="color: #000000">Quantum advantage and lower bounds in parallel query complexity</a></h2>
+ - Joseph Carolan, Amin Shiraz Gilani, Mahathi Vempati. Published in **ITCS 2025 (to appear)**
 
-<h2><a href="https://arxiv.org/abs/2403.04740">Quantum One-Wayness of the Single-Round Sponge with Invertible Permutations</a></h2>
- - Joseph Carolan, Alexander Poremba
- - Published in **CRYPTO 2024**
+<h2><a href="https://arxiv.org/abs/2403.04740" style="color: #000000">Quantum One-Wayness of the Single-Round Sponge with Invertible Permutations</a></h2>
+ - Joseph Carolan, Alexander Poremba. Published in **CRYPTO 2024**
 
-<h2><a href="https://arxiv.org/abs/2210.03089">Quantum Computation of Dynamical Quantum Phase Transitions and Entanglement Tomography in a Lattice Gauge Theory</a></h2>
- - Niklas Mueller, Joseph Carolan, Andrew Connelly, Zohreh Davoudi, Eugene F. Dumitrescu, Kübra Yeter-Aydeniz
- - Published in **Physical Review X Quantum, 2023**
+<h2><a href="https://arxiv.org/abs/2210.03089" style="color: #000000">Quantum Computation of Dynamical Quantum Phase Transitions and Entanglement Tomography in a Lattice Gauge Theory</a></h2>
+ - Niklas Mueller, Joseph Carolan, Andrew Connelly, Zohreh Davoudi, Eugene F. Dumitrescu, Kübra Yeter-Aydeniz. Published in **Physical Review X Quantum, 2023**
