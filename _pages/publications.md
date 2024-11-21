@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can find a full list at my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</div>
 {% endif %}
 
-<h2><a href="https://arxiv.org/abs/2410.16595" style="color: #000000">(Quantum) Indifferentiability with Pre-Computation</a></h2>
+<h2><a href="https://arxiv.org/abs/2410.16595" style="color: #cc0000">(Quantum) Indifferentiability with Pre-Computation</a></h2>
  - Joseph Carolan, Alexander Poremba, Mark Zhandry
  - (Under review)
  
