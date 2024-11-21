@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Papers"
 permalink: /papers/
 author_profile: true
@@ -9,15 +9,8 @@ author_profile: true
   <div class="wordwrap">You can find a full list at my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</div>
 {% endif %}
 
-# {% include base_path %}
+{% include base_path %}
 
-# {% for post in site.publications reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}
-
-
-
-<h2><a href="https://arxiv.org/abs/2210.03089">Quantum Computation of Dynamical Quantum Phase Transitions and Entanglement Tomography in a Lattice Gauge Theory</a></h2>
-
- - Niklas Mueller, Joseph Carolan, Andrew Connelly, Zohreh Davoudi, Eugene F. Dumitrescu, Kübra Yeter-Aydeniz
- - Published in **Physical Review X Quantum, 2023**
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
