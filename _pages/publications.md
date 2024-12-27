@@ -15,22 +15,22 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## (Quantum) Indifferentiability and Pre-Computation [&thinsp;[<img src="/images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2024/1727)&thinsp;]
+## (Quantum) Indifferentiability and Pre-Computation [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2024/1727)&thinsp;]
 
 Joseph Carolan, Alexander Poremba, Mark Zhandry. **QIP 2025.**
 
-## Quantum One-Wayness of the Single-Round Sponge with Invertible Permutations [&thinsp;[<img src="/images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2024/414)&thinsp;]
+## Quantum One-Wayness of the Single-Round Sponge with Invertible Permutations [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2024/414)&thinsp;]
 
 Joseph Carolan, Alexander Poremba. **CRYPTO 2024, QCRYPT 2024, QIP 2025.**
 
-## Quantum advantage and lower bounds in parallel query complexity [&thinsp;[<img src="/images/manuscript_icon.png" width="30"/>](https://arxiv.org/abs/2410.02665)&thinsp;]
+## Quantum advantage and lower bounds in parallel query complexity [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://arxiv.org/abs/2410.02665)&thinsp;]
 
 Joseph Carolan, Amin Shiraz Gilani, Mahathi Vempati. **ITCS 2025, QIP 2025.**
 
-## Succinct Fermion Data Structures [&thinsp;[<img src="/images/manuscript_icon.png" width="30"/>](https://arxiv.org/abs/2410.04015)&thinsp;]
+## Succinct Fermion Data Structures [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://arxiv.org/abs/2410.04015)&thinsp;]
 
 Joseph Carolan, Luke Schaeffer. **ITCS 2025.**
 
-## Quantum Computation of Dynamical Quantum Phase Transitions and Entanglement Tomography in a Lattice Gauge Theory [&thinsp;[<img src="/images/manuscript_icon.png" width="30"/>](https://arxiv.org/abs/2210.03089)&thinsp;]
+## Quantum Computation of Dynamical Quantum Phase Transitions and Entanglement Tomography in a Lattice Gauge Theory [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://arxiv.org/abs/2210.03089)&thinsp;]
 
 Niklas Mueller, Joseph Carolan, Andrew Connelly, Zohreh Davoudi, Eugene F. Dumitrescu, Kübra Yeter-Aydeniz *(non-alphabetical)*. **PRX Quantum, 2023.**
