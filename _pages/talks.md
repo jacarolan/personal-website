@@ -19,9 +19,9 @@ img.b {
 
 Presented at **CRYPTO 2024** and **QCRYPT 2024** and **MathQuantum Symposium**.
 
-## Succinct Fermion Data Structures [&thinsp;[<img src="../images/slides_icon.png" width="30"/>](/personal-website/files/Whitfield_Group_Presentation.pdf)&thinsp;]
+## Succinct Fermion Data Structures [&thinsp;[<img src="../images/slides_icon.png" width="30"/>](/personal-website/files/Whitfield_Group_Presentation.pdf)&thinsp;][&thinsp;[<img class="b" src="../images/video_icon.png" width="30"/>](https://www.youtube.com/watch?v=sWSUhy2vDD0)&thinsp;]
 
-Invited Talk at **Whitfield Group** and presented at **Friday Quantum Seminar**.
+Invited Talk at **Whitfield Group** and presented at **Friday Quantum Seminar** and **ITCS 2025**.
 
 ## Limitations of Quantum Algorithms for Fluid Dynamics [&thinsp;[<img src="../images/slides_icon.png" width="30"/>](/personal-website/files/Quantum_Fluids_Lower_Bounds_Poster.pdf)&thinsp;]
 
