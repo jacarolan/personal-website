@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## Translation-Invariant Quantum Algorithms for Ordered Search are Optimal [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://arxiv.org/pdf/2503.21090)&thinsp;]
+Joseph Carolan, Andrew M. Childs, Matt Kovacs-Deak, Luke Schaeffer. *Under Review.*
+
 ## (Quantum) Indifferentiability and Pre-Computation [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2024/1727)&thinsp;]
 
 Joseph Carolan, Alexander Poremba, Mark Zhandry. **QIP 2025.**
