@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## The Sponge is Quantum Indifferentiable [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2025/731)&thinsp;]
+Gorjan Alagic, Joseph Carolan, Christian Majenz, Saliha Tokat. *Under Review.*
+
 ## Translation-Invariant Quantum Algorithms for Ordered Search are Optimal [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://arxiv.org/abs/2503.21090)&thinsp;]
 Joseph Carolan, Andrew M. Childs, Matt Kovacs-Deak, Luke Schaeffer. *Under Review.*
 
