@@ -15,6 +15,10 @@ img.b {
   {% include archive-single-talk.html %}
 {% endfor %} -->
 
+## Quantum Space-Time Trade-Offs for Sponge Inversion [&thinsp;[<img src="../images/slides_icon.png" width="30"/>](/personal-website/files/QIP_2025_Sponge_Slides_Handout.pdf)&thinsp;][&thinsp;[<img class="b" src="../images/video_icon.png" width="30"/>](https://www.youtube.com/watch?v=QeonjtWpnbs)&thinsp;]
+
+Presented at **QIP 2025**, merge of [[arxiv:2403.04740]](https://arxiv.org/abs/2403.04740) and [[arxiv:2410.16595]](https://arxiv.org/abs/2410.16595).
+
 ## Quantum One-Wayness of the Single Round Sponge with Invertible Permutations [&thinsp;[<img src="../images/slides_icon.png" width="30"/>](/personal-website/files/CRYPTO_slides.pdf)&thinsp;][&thinsp;[<img class="b" src="../images/video_icon.png" width="30"/>](https://youtu.be/5myAeoG4ejA?t=2446)&thinsp;]
 
 Presented at **CRYPTO 2024** and **QCRYPT 2024** and **MathQuantum Symposium**.
