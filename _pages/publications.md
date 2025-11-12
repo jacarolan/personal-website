@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Compressed Permutation Oracles [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2025/1734)&thinsp;]
-Joseph Carolan. **QIP 2026 *(Plenary)*.**
+Joseph Carolan. **QIP 2026 *(Short Plenary)*.**
 
 ## The Sponge is Quantum Indifferentiable [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2025/731)&thinsp;]
 Gorjan Alagic, Joseph Carolan, Christian Majenz, Saliha Tokat. **FOCS 2025, QIP 2026.**
