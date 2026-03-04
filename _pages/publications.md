@@ -22,7 +22,7 @@ Joseph Carolan. **STOC 2026, QIP 2026 *(Short Plenary)*.**
 Gorjan Alagic, Joseph Carolan, Christian Majenz, Saliha Tokat. **FOCS 2025, QIP 2026.**
 
 ## Translation-Invariant Quantum Algorithms for Ordered Search are Optimal [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://arxiv.org/abs/2503.21090)&thinsp;]
-Joseph Carolan, Andrew M. Childs, Matt Kovacs-Deak, Luke Schaeffer. *Under Review.*
+Joseph Carolan, Andrew M. Childs, Matt Kovacs-Deak, Luke Schaeffer. **ACM Transactions on Quantum Computing, 2026.**
 
 ## (Quantum) Indifferentiability and Pre-Computation [&thinsp;[<img src="../images/manuscript_icon.png" width="30"/>](https://eprint.iacr.org/2024/1727)&thinsp;]
 
